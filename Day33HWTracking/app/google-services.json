@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "337702552645",
+    "project_id": "day30practicetracking",
+    "storage_bucket": "day30practicetracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337702552645:android:1cc6381f1acc69e004cf2c",
+        "android_client_info": {
+          "package_name": "com.example.day30practicetracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337702552645-e08g6cmfrl115p23c72fgd3a5gjc0svj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2QdF6YKKt3d9z3huVUn8skjm6hGhc3Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337702552645-e08g6cmfrl115p23c72fgd3a5gjc0svj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337702552645:android:d0a5a988071f7c0704cf2c",
+        "android_client_info": {
+          "package_name": "com.example.day33hwtracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337702552645-e08g6cmfrl115p23c72fgd3a5gjc0svj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2QdF6YKKt3d9z3huVUn8skjm6hGhc3Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337702552645-e08g6cmfrl115p23c72fgd3a5gjc0svj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
