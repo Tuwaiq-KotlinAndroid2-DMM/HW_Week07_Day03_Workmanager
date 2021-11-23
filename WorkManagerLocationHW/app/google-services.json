@@ -1,0 +1,213 @@
+{
+  "project_info": {
+    "project_number": "945321462089",
+    "project_id": "mohammed-kotlin-k2",
+    "storage_bucket": "mohammed-kotlin-k2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945321462089:android:e0404d0a07cabf3d873298",
+        "android_client_info": {
+          "package_name": "com.twq.mvvm_repositry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945321462089-1uq6etd3p1102ns5d7huncmmc65ujfl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYe3hJLvO5pAOxP7HeakQUf52ZdL7zlKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945321462089-1uq6etd3p1102ns5d7huncmmc65ujfl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945321462089:android:1606500de98b3a2c873298",
+        "android_client_info": {
+          "package_name": "com.twq.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945321462089-1uq6etd3p1102ns5d7huncmmc65ujfl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYe3hJLvO5pAOxP7HeakQUf52ZdL7zlKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945321462089-1uq6etd3p1102ns5d7huncmmc65ujfl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945321462089:android:072e64a69f619512873298",
+        "android_client_info": {
+          "package_name": "com.twq.pushnotificationnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945321462089-1uq6etd3p1102ns5d7huncmmc65ujfl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYe3hJLvO5pAOxP7HeakQUf52ZdL7zlKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945321462089-1uq6etd3p1102ns5d7huncmmc65ujfl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945321462089:android:77fc908bd4498be7873298",
+        "android_client_info": {
+          "package_name": "com.twq.roomtaskmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945321462089-1uq6etd3p1102ns5d7huncmmc65ujfl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYe3hJLvO5pAOxP7HeakQUf52ZdL7zlKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945321462089-1uq6etd3p1102ns5d7huncmmc65ujfl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945321462089:android:0eb8c022b57fdf3c873298",
+        "android_client_info": {
+          "package_name": "com.twq.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945321462089-1uq6etd3p1102ns5d7huncmmc65ujfl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYe3hJLvO5pAOxP7HeakQUf52ZdL7zlKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945321462089-1uq6etd3p1102ns5d7huncmmc65ujfl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945321462089:android:6ecbd354fc269305873298",
+        "android_client_info": {
+          "package_name": "com.twq.todolistproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945321462089-1uq6etd3p1102ns5d7huncmmc65ujfl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYe3hJLvO5pAOxP7HeakQUf52ZdL7zlKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945321462089-1uq6etd3p1102ns5d7huncmmc65ujfl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945321462089:android:75bbf8899db9c58a873298",
+        "android_client_info": {
+          "package_name": "com.twq.workmanagerlocationhw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945321462089-1uq6etd3p1102ns5d7huncmmc65ujfl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYe3hJLvO5pAOxP7HeakQUf52ZdL7zlKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945321462089-1uq6etd3p1102ns5d7huncmmc65ujfl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
