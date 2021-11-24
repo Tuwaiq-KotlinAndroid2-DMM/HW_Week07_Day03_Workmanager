@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224091691726",
+    "project_id": "hw-week7-day3-workermanager",
+    "storage_bucket": "hw-week7-day3-workermanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224091691726:android:ce9424db39b89c1c5bce9f",
+        "android_client_info": {
+          "package_name": "com.tuwaq.hmw7d3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224091691726-h75d2nflsmdm668driikslvbdic60f74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFvzI1IhLeCIBPbGbBtR0mGma3B_7SQFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224091691726-h75d2nflsmdm668driikslvbdic60f74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
