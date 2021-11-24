@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597705890813",
+    "project_id": "addlocationtofirebase",
+    "storage_bucket": "addlocationtofirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597705890813:android:ecf08423036d0199185794",
+        "android_client_info": {
+          "package_name": "com.example.workmanagerhw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597705890813-3rnpcegjbvtjn2hg8mb0s2crf4qaci09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOWMTOtuLGOdztYimEheZkMYKa46vQFSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597705890813-3rnpcegjbvtjn2hg8mb0s2crf4qaci09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
