@@ -1,4 +1,4 @@
-package com.example.workmanger
+package com.example.applicationlocation
 
 import org.junit.Test
 
