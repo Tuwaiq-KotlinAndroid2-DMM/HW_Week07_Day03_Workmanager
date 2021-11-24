@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun check(){
-        var locationManager = getSystemService(LOCATION_SERVICE) as? LocationManager
+        //var locationManager = getSystemService(LOCATION_SERVICE) as? LocationManager
         if (ActivityCompat.checkSelfPermission(
                 this,
                 Manifest.permission.ACCESS_FINE_LOCATION
@@ -56,7 +56,7 @@ class MainActivity : AppCompatActivity() {
 
         else{
             val worker= PeriodicWorkRequestBuilder<LocationWorker>(10,TimeUnit.SECONDS).build()
-            var wm = WorkManager.getInstance(this)
+            WorkManager.getInstance(this).enqueue(worker)
 
 
         }
