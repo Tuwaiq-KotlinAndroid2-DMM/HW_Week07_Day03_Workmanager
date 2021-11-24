@@ -9,6 +9,7 @@ import android.location.Location
 import android.location.LocationListener
 import android.location.LocationManager
 import android.util.Log
+import androidx.core.content.ContextCompat.getSystemService
 import androidx.work.Worker
 import androidx.work.WorkerParameters
 import java.util.*
@@ -20,10 +21,10 @@ class locationWorker(context: Context, workerParams: WorkerParameters) : Worker(
     workerParams
 ) {
     override fun doWork(): Result {
-        /*   for (i in 1..30) {
-               Thread.sleep((1000))
-           }*/
-        showLastLocation()
+        for (i in 1..30) {
+            Thread.sleep((1000))
+            showLastLocation()
+        }
         return Result.success()
     }
 
@@ -31,8 +32,7 @@ class locationWorker(context: Context, workerParams: WorkerParameters) : Worker(
     @SuppressLint("MissingPermission")
     fun showLastLocation() {
 
-        var locationManager = getSystemService(LOCATION_SERVICE) as? LocationManager
-
+        var locationManager = applicationContext.getSystemService(LOCATION_SERVICE) as? LocationManager
 
         locationManager?.requestLocationUpdates(
             LocationManager.GPS_PROVIDER, 0, 0f,
@@ -40,8 +40,8 @@ class locationWorker(context: Context, workerParams: WorkerParameters) : Worker(
                 override fun onLocationChanged(location: Location) {
 
 
-                    val latitude = location?.latitude
-                    val longitude = location?.longitude
+                    val latitude = location.latitude
+                    val longitude = location.longitude
                     val time = Calendar.getInstance().timeInMillis
                     addToFirebase(time.toString(), latitude, longitude)
 
