@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344982700739",
+    "project_id": "hw-week7application",
+    "storage_bucket": "hw-week7application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344982700739:android:f53837c3b598c025319876",
+        "android_client_info": {
+          "package_name": "com.example.hw_week7application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344982700739-cqv217au9mt7qjinjpdvpcdfu2dg0mar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA11_UHPjVjkb2Y6OvCoeJH2FBj_Q63SRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344982700739-cqv217au9mt7qjinjpdvpcdfu2dg0mar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
